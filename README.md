@@ -80,5 +80,3 @@ Git and Linux are like oceans, infinite things are there to learn. Both of them 
 
 
 #### GIT Has Branch Protection Rules Enabled to ensure you cannot push your changes directly to the MAIN Branch and always changes has to go through Pull Request only.
-
-itttt
